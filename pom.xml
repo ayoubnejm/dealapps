@@ -18,7 +18,7 @@
 		<java.version>1.8</java.version>
 		<model.mapper.version>2.3.8</model.mapper.version>
 		<lombok.version>1.18.12</lombok.version>
-		<swagger.version>2.9.2</swagger.version>
+		<swagger.version>2.10.0</swagger.version>
 	</properties>
 
 	<dependencies>
